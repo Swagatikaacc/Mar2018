@@ -1,0 +1,4 @@
+hello Swagatika
+This is a Git Fundamental training
+Trining is happening in HDC2
+Still now I learnt how to create Git reprository,File,Commit and Push.
